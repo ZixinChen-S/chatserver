@@ -10,8 +10,10 @@ win11下的VMware 16的ubuntu20.04
 # 编译
 1 进入build子目录
 cd ./build
+
 2 删除旧文件
 sudo re -rf ./*
+
 3 cmake和make
 cmake ../
 make
