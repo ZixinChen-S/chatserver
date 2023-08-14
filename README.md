@@ -16,3 +16,4 @@ sudo re -rf ./*
 cmake ../
 make
 
+![图片2](https://github.com/ZixinChen-S/chatserver/assets/64349329/2dcc19b9-e2d2-46f3-a791-ecc032dcfff4)
